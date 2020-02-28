@@ -31,11 +31,11 @@
 |    huawei.com    |     PSIRT<br />华为安全应急响应中心     |              <https://www.huawei.com/cn/psirt>               |
 | tutorabc.com.cn  | iSRC <br />iTutorGroup安全应急响应中心  | [https://sec.tutorabc.com.cn](https://sec.tutorabc.com.cn/)  |
 |      jd.com      |        京东安全应急响应中心平台         |                  <http://security.jd.com/>                   |
-|  focuschina.com  |     FSRC<br />焦点安全应急响应中心      |               <https://security.focuschina.com               |
+|  focuschina.com  |     FSRC<br />焦点安全应急响应中心      |               <https://security.focuschina.com>              |
 |      jj.cn       |   JJSRC<br />竞技世界安全应急响应中心   |                  <https://security.jj.cn/>                   |
 |   kingsoft.com   |          金山安全应急响应中心           |                  <http://sec.kingsoft.com/>                  |
 |   kuaishou.com   |              快手安全中心               | [https://security.kuaishou.com](https://security.kuaishou.com/) |
-|    itiger.com    |        老虎证券安全应急响应中心         |               <https://security.itiger.com/>>                |
+|    itiger.com    |        老虎证券安全应急响应中心         |               <https://security.itiger.com/>                |
 |      le.com      |          乐视安全应急响应中心           |                     <http://sec.le.com/>                     |
 | lexinfintech.com |          乐信安全应急响应中心           |      <http://security.lexinfintech.com/security/index>       |
 |    vulbox.com    |                 联想SRC                 |                  <https://lsrc.vulbox.com/>                  |
@@ -59,7 +59,7 @@
 |    suning.com    |          苏宁安全应急响应中心           | [https://security.suning.com](https://security.suning.com/)  |
 |    tuniu.com     |          途牛安全应急响应中心           |                   <http://sec.tuniu.com/>                    |
 |   tencent.com    |     TSRC<br />腾讯安全应急响应中心      |                https://security.tencent.com/                 |
-|     vip.com/     |         唯品会安全应急响应中心          |                    <https://sec.vip.com/>                    |
+|     vip.com      |         唯品会安全应急响应中心          |                    <https://sec.vip.com/>                    |
 |  vipkid.com.cn   |         VIPKID安全应急响应中心          |              <https://security.vipkid.com.cn/>               |
 |   vivo.com.cn    |          vivo安全应急响应中心           | [https://security.vivo.com.cn](https://security.vivo.com.cn/) |
 |    wacai.com     |          挖财安全应急响应中心           |                   <https://sec.wacai.com/>                   |
