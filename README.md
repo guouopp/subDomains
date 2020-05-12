@@ -1,6 +1,12 @@
 # subDomains
 互联网公司子域名收集，老铁只能帮到这了。
 
+子域名探测工具：
+
+* [starnightcyber/findSubDomains](https://github.com/starnightcyber/findSubDomains)
+* [lijiejie/subDomainsBrute](https://github.com/lijiejie/subDomainsBrute)
+* [shmilylty/OneForAll](https://github.com/shmilylty/OneForAll)
+
 ## SRC列表
 国内互联网公司[SRC集合](https://www.anquanke.com/src)
 
